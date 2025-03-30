@@ -79,9 +79,9 @@
 
 Здесь находятся ссылки на мои тестовые работы:
 
-- [Git bash]()
-- [Fiddler]()
-- [Bug report]()
+- [Git bash](https://github.com/AnastasiaAbramovich/-git-bash.git)
+- [Fiddler](https://github.com/AnastasiaAbramovich/Fiddler.git)
+- [Bug report](https://github.com/AnastasiaAbramovich/Bug.git)
 
 ---
 
