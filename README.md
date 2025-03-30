@@ -82,7 +82,9 @@
 - [Git bash](https://github.com/AnastasiaAbramovich/-git-bash.git)
 - [Fiddler](https://github.com/AnastasiaAbramovich/Fiddler.git)
 - [Bug report](https://github.com/AnastasiaAbramovich/Bug.git)
-- [Web application and mobile application checklist](https://github.com/AnastasiaAbramovich/-checklist.git)
+- [Сhecklist for web app and mobile app](https://github.com/AnastasiaAbramovich/-checklist.git)
+- [Test cases for web app and mobile app](https://github.com/AnastasiaAbramovich/test-case.git)
+- [Databases](https://github.com/AnastasiaAbramovich/Databases.git)
 
 ---
 
