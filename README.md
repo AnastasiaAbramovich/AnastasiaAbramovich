@@ -7,7 +7,7 @@
 Я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
-- 📫 Как связаться со мной: [![mail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nastyaabramovich2011@mail.ru)
+- 📫 Как связаться со мной: [![mail Badge](https://img.icons8.com/?size=100&id=3AYCSzCO85Qw&format=png&color=000000)](mailto:nastyaabramovich2011@mail.ru)
 
 ---
 
