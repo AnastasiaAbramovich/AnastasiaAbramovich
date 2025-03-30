@@ -29,6 +29,7 @@
   <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+  <img src="https://play-lh.googleusercontent.com/LSnrgWVfyKTEp7zLAWNdXukvHt0jvH-KmnAjTV6cVJWXauW4K8iFX4lI0MYY3drQpAuc=w240-h480-rw" title="miro" alt="miro" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -73,6 +74,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
+
+## Testing Artefacts (Тестовые артефакты)
+
+Здесь находятся ссылки на мои тестовые работы:
+
+- [Название модуля 1](https://github.com/ВАШ_ЮЗЕРНЕЙМ/РЕПОЗИТОРИЙ_1) — краткое описание проекта.
+- [Название модуля 2](https://github.com/ВАШ_ЮЗЕРНЕЙМ/РЕПОЗИТОРИЙ_2) — краткое описание проекта.
 
 ---
 
