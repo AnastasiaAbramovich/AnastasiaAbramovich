@@ -1,17 +1,19 @@
-# Привет, меня зовут Настя!
+# Hi, my name is Anastasiya!
 
 ---
 
-### 👨‍💻 Обо мне:
+### 👨‍💻 About Me
 
-Я начинающий тестировщик.
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+I am a Junior QA Engineer.  
+In this repository you can find some of the projects I completed during my training and testing practice.
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nastyaabramovich1997@gmail.ru)
+I am passionate about software quality, detail-oriented, and motivated to grow professionally in software testing.
+  
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nastyaabramovich1997@gmail.ru)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social Networks:
 
   <div id="badges">
     <a href="https://t.me/[nastyaabramovich]" target="_blank">
@@ -21,7 +23,7 @@
 
 ---
 
-### 📁 Тестовая документация:
+### 📁 Test Documentation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -34,7 +36,7 @@
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 Web Application Testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -44,8 +46,7 @@
 
 ---
 
-### 📱 Тестирование мобильных приложений:
-
+### 📱 Mobile Application Testing:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
@@ -57,7 +58,7 @@
 
 ---
 
-### 💾 Работа с данными:
+### 💾 Working with Data:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -66,7 +67,7 @@
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Working with Code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -75,9 +76,9 @@
   
 </div>
 
-## Тестовые артефакты
+## Testing Artifacts
 
-Здесь находятся ссылки на мои тестовые работы:
+Here are links to some of my testing projects:
 
 - [Git bash](https://github.com/AnastasiaAbramovich/-git-bash.git)
 - [Fiddler](https://github.com/AnastasiaAbramovich/Fiddler.git)
@@ -85,14 +86,3 @@
 - [Сhecklist for web app and mobile app](https://github.com/AnastasiaAbramovich/-checklist.git)
 - [Test cases for web app and mobile app](https://github.com/AnastasiaAbramovich/test-case.git)
 - [Databases](https://github.com/AnastasiaAbramovich/Databases.git)
-
----
-
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
