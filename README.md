@@ -85,4 +85,4 @@ Here are links to some of my testing projects:
 - [Сhecklist for web app and mobile app](https://github.com/AnastasiaAbramovich/-checklist.git)
 - [Test cases for web app and mobile app](https://github.com/AnastasiaAbramovich/test-case.git)
 - [Databases](https://github.com/AnastasiaAbramovich/Databases.git)
-- [Postman](https://github.com/AnastasiaAbramovich/Postman.git)
+- [Postman and SoapUI](https://github.com/AnastasiaAbramovich/Postman.git)
